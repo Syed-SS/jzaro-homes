@@ -26,10 +26,34 @@ The platform focuses on user experience, responsive design, SEO optimization, an
 - CSS Modules
 - Vercel
 
-## Screenshots
 
+## Project Screenshots
+
+### Home Page
+![Home Page](screenshots/Home-page.jpg.png)
+
+### About Page
+![About Page](screenshots/About-jzaro.png)
+
+### FAQ Section
+![FAQ](screenshots/FAQ.jpg.png)
+
+### Client Reviews
+![Client Reviews](screenshots/Client-Review.jpg.png)
+
+### Demo Section
+![Demo](screenshots/Demo.jpg.png)
+
+### Information Section
+![Info](screenshots/Info.jpg.png)
 
 
 ## Live Demo
 
-Coming Soon
+## Live Website
+
+https://jzarohomes.com
+
+## GitHub Repository
+
+https://github.com/Syed-SS/jzaro-homes
