@@ -48,7 +48,7 @@ The platform focuses on user experience, responsive design, SEO optimization, an
 ![Info](screenshots/Info.jpg.png)
 
 
-## Live Demo
+
 
 ## Live Website
 
